@@ -1,0 +1,16 @@
+/* frontend.css */
+.odds-comparison-block {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    margin-bottom: 15px;
+}
+
+.bookmaker-odds {
+    font-size: 14px;
+    font-weight: bold;
+    color: #333;
+}
